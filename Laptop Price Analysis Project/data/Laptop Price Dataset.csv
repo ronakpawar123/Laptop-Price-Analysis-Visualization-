@@ -1,0 +1,301 @@
+Company,TypeName,Inches,Ram,OS,Weight,Screen,Touchscreen,IPSpanel,RetinaDisplay,CPU company,CPU freq,PrimaryStorage,Primary Storage Type,Secondary Storage,Secondary Storage Type,GPU company,Price_euros
+MSI,Gaming,14,4,macOS,2.66,4K Ultra HD,No,No,No,Intel,1.12,128,Hybrid,256,,Intel,808.02
+Apple,Ultrabook,13.3,8,Windows 10,1.79,4K Ultra HD,No,No,No,Intel,4.39,1024,Hybrid,1024,Hybrid,Intel,3446.77
+Asus,Gaming,15.6,16,Windows 11,1.52,Standard,No,No,No,AMD,4.32,512,Hybrid,512,SSD,Intel,2342.29
+MSI,Gaming,13.3,4,macOS,3.12,Full HD,Yes,No,No,AMD,2.8,128,SSD,256,HDD,Nvidia,1328.66
+Lenovo,Gaming,17.3,16,Windows 11,3.46,Full HD,Yes,Yes,No,AMD,1.33,256,SSD,256,Hybrid,AMD,1469.44
+Asus,Gaming,17.3,4,macOS,2.41,4K Ultra HD,Yes,No,Yes,AMD,3.64,512,Hybrid,256,SSD,Intel,1900.47
+Asus,Notebook,13.3,4,No OS,1.59,Full HD,No,Yes,No,AMD,2.72,512,SSD,512,HDD,Intel,1560.01
+MSI,Notebook,13.3,4,Linux,1.83,Standard,No,Yes,No,AMD,2.06,1024,Hybrid,512,Hybrid,Intel,2173.39
+HP,Gaming,13.3,8,No OS,1.24,4K Ultra HD,Yes,Yes,Yes,Intel,2.72,1024,SSD,1024,Hybrid,AMD,2157.58
+Lenovo,Ultrabook,13.3,8,Windows 11,3.3,Standard,Yes,Yes,No,Intel,2.83,256,HDD,512,SSD,AMD,1565.66
+MSI,Notebook,17.3,16,Linux,1.47,Standard,No,Yes,No,AMD,2.97,128,HDD,512,HDD,AMD,1938.97
+Lenovo,Gaming,14,4,macOS,2.53,Full HD,Yes,No,No,AMD,2.54,1024,Hybrid,0,HDD,Nvidia,1916.79
+Lenovo,Notebook,13.3,4,Linux,1.83,4K Ultra HD,Yes,Yes,No,Intel,3.12,1024,SSD,1024,Hybrid,Nvidia,2158.27
+Asus,Notebook,13.3,8,Windows 10,2.47,4K Ultra HD,No,Yes,No,Intel,4.22,512,SSD,256,Hybrid,Intel,1848.34
+Apple,Ultrabook,17.3,4,Linux,2.7,Full HD,No,Yes,No,Intel,2.27,1024,HDD,512,Hybrid,AMD,2985.08
+Lenovo,Gaming,17.3,8,Windows 10,3.11,Standard,No,No,No,AMD,3.54,1024,HDD,256,HDD,Intel,2296.31
+Acer,Gaming,15.6,4,Linux,1.67,Standard,No,Yes,No,AMD,4.13,1024,Hybrid,256,SSD,AMD,1955.39
+Asus,Ultrabook,13.3,16,Windows 10,1.23,Standard,No,No,No,AMD,2.6,1024,HDD,0,SSD,AMD,2359.07
+HP,Ultrabook,15.6,4,Windows 11,1.51,Standard,Yes,Yes,No,Intel,2.55,512,Hybrid,512,HDD,AMD,1516.61
+Apple,Gaming,17.3,4,No OS,3.27,4K Ultra HD,Yes,No,No,Intel,3.11,256,HDD,1024,,Nvidia,2271.06
+Acer,Gaming,17.3,32,macOS,3.21,4K Ultra HD,No,Yes,No,AMD,3.07,256,HDD,512,SSD,Nvidia,2081.51
+Acer,Ultrabook,14,8,Linux,2.57,Full HD,No,No,Yes,AMD,3.82,128,SSD,256,Hybrid,AMD,1417.84
+HP,Notebook,13.3,4,No OS,2.58,Full HD,No,No,No,Intel,2.67,1024,HDD,1024,,Intel,1857.52
+Apple,Notebook,15.6,4,macOS,2.73,4K Ultra HD,Yes,Yes,No,Intel,4.49,512,HDD,512,,AMD,2864.65
+Asus,Ultrabook,17.3,32,macOS,1.6,4K Ultra HD,No,Yes,Yes,Intel,1.21,128,Hybrid,256,SSD,AMD,1737.7
+Dell,Notebook,17.3,32,Windows 10,3.3,Standard,No,Yes,No,Intel,1.01,128,HDD,256,,Intel,2001.81
+Apple,Ultrabook,15.6,8,Windows 11,2.16,Standard,No,Yes,No,AMD,3.24,256,Hybrid,0,,AMD,2204.85
+HP,Notebook,14,32,Windows 11,2.08,Full HD,No,Yes,No,Intel,2.04,512,HDD,0,SSD,Intel,2161.55
+Acer,Notebook,17.3,16,No OS,2.39,4K Ultra HD,No,No,No,Intel,1.84,512,HDD,0,SSD,Nvidia,1616.72
+Asus,Gaming,13.3,32,Windows 11,1.31,Full HD,No,Yes,No,Intel,2.09,512,Hybrid,256,,Nvidia,2267.6
+Apple,Gaming,17.3,16,Linux,1.58,4K Ultra HD,No,Yes,Yes,AMD,1.9,256,SSD,512,Hybrid,Intel,2345.39
+Dell,Notebook,13.3,8,Windows 11,2.9,Standard,No,Yes,No,AMD,1.11,256,Hybrid,0,HDD,Nvidia,1274.96
+Dell,Notebook,15.6,8,No OS,1.39,Full HD,Yes,Yes,No,Intel,4.4,256,Hybrid,512,,Nvidia,2155.4
+Lenovo,Gaming,13.3,8,Windows 11,2.59,Full HD,No,No,No,Intel,1.77,256,Hybrid,0,,Intel,1257.7
+Lenovo,Gaming,15.6,8,Linux,1.76,4K Ultra HD,No,Yes,No,Intel,3.57,256,SSD,1024,Hybrid,Nvidia,1645.74
+MSI,Gaming,13.3,8,Windows 10,2.1,Standard,No,No,No,AMD,3.67,1024,HDD,1024,,AMD,2431.27
+HP,Ultrabook,15.6,16,No OS,1.86,Full HD,No,No,No,AMD,4.25,1024,Hybrid,0,,AMD,2850.58
+Apple,Notebook,13.3,16,Windows 10,2.02,Standard,No,No,No,AMD,1.11,512,Hybrid,256,HDD,Intel,2225.65
+Apple,Gaming,14,8,Windows 10,2.85,Full HD,Yes,No,No,Intel,4.05,128,SSD,0,HDD,Nvidia,2271.98
+MSI,Notebook,13.3,32,Windows 10,1.88,Standard,No,Yes,No,AMD,2.85,512,Hybrid,0,HDD,AMD,2820.3
+Acer,Ultrabook,13.3,4,macOS,2.5,4K Ultra HD,Yes,No,Yes,Intel,3.21,128,HDD,256,SSD,AMD,1242.59
+Acer,Ultrabook,14,8,macOS,2.29,Full HD,No,Yes,Yes,Intel,3.26,256,SSD,1024,SSD,Nvidia,1294.96
+MSI,Gaming,17.3,32,Windows 10,2.73,Full HD,No,Yes,No,Intel,3.87,128,HDD,512,HDD,Nvidia,2644.6
+Acer,Ultrabook,17.3,4,No OS,3.35,Standard,No,No,No,AMD,2.17,512,HDD,0,HDD,AMD,1295.67
+Lenovo,Notebook,13.3,8,Linux,2.88,Standard,No,No,No,Intel,3.57,512,SSD,256,SSD,AMD,1731.04
+Apple,Gaming,14,8,Linux,1.69,Full HD,No,No,No,AMD,2.85,128,Hybrid,0,Hybrid,Intel,1743.71
+MSI,Notebook,13.3,16,Windows 11,1.27,4K Ultra HD,No,Yes,No,AMD,3.78,1024,HDD,256,,Intel,2801.84
+Apple,Notebook,15.6,4,No OS,1.8,Standard,No,Yes,No,Intel,4.47,256,HDD,512,,AMD,2326.05
+Dell,Ultrabook,15.6,4,macOS,2.57,Standard,No,No,No,Intel,1.7,256,HDD,512,HDD,Intel,1293.01
+Lenovo,Ultrabook,13.3,32,Windows 10,1.32,Standard,No,Yes,No,AMD,4.48,512,HDD,1024,Hybrid,AMD,2955.04
+Asus,Ultrabook,17.3,16,Windows 11,2.34,Full HD,No,No,Yes,Intel,1.31,1024,SSD,256,SSD,AMD,1988.38
+Lenovo,Ultrabook,17.3,16,Linux,2.57,Full HD,No,No,No,AMD,1.01,128,SSD,256,HDD,Intel,1298.05
+MSI,Ultrabook,13.3,16,macOS,1.97,Full HD,No,Yes,No,Intel,1.15,256,HDD,1024,Hybrid,Intel,1563.35
+Asus,Gaming,13.3,16,macOS,2.97,Full HD,No,Yes,No,AMD,2.2,1024,Hybrid,1024,Hybrid,Nvidia,2056.49
+Dell,Notebook,15.6,4,Windows 10,1.45,4K Ultra HD,No,Yes,No,AMD,3.22,256,HDD,256,Hybrid,Nvidia,1553.06
+MSI,Notebook,17.3,4,Linux,1.37,4K Ultra HD,No,Yes,No,AMD,1.24,1024,Hybrid,1024,SSD,Nvidia,2169.85
+HP,Notebook,13.3,8,No OS,2.87,Full HD,No,No,No,AMD,1.02,1024,HDD,512,SSD,AMD,1826.29
+Apple,Notebook,15.6,8,macOS,2.34,4K Ultra HD,No,Yes,No,Intel,4.28,512,Hybrid,0,,Intel,2883.63
+Dell,Ultrabook,17.3,16,Windows 10,2.78,Standard,No,No,Yes,Intel,3.88,256,HDD,512,,AMD,2112.14
+Apple,Notebook,14,16,No OS,2.2,Standard,No,Yes,No,AMD,3.83,128,Hybrid,1024,Hybrid,Intel,2403.19
+Acer,Gaming,15.6,16,Linux,1.77,Standard,No,No,No,AMD,4.1,512,HDD,256,Hybrid,AMD,2068.65
+HP,Gaming,17.3,8,macOS,3.08,Full HD,Yes,Yes,No,Intel,3.45,512,HDD,256,SSD,Nvidia,2133.22
+HP,Notebook,17.3,32,No OS,3.04,Standard,No,Yes,Yes,Intel,1.37,128,Hybrid,512,,Nvidia,1853.41
+Dell,Notebook,15.6,32,No OS,2.8,4K Ultra HD,Yes,Yes,No,Intel,2.4,512,SSD,256,Hybrid,Nvidia,2400.36
+HP,Gaming,14,8,No OS,1.83,Full HD,No,No,No,Intel,3.53,1024,Hybrid,1024,,AMD,2285.56
+Asus,Gaming,15.6,8,macOS,2.56,4K Ultra HD,No,No,No,Intel,1.98,1024,SSD,512,,Intel,2032.08
+HP,Ultrabook,17.3,8,macOS,2.03,Standard,No,No,No,Intel,3.41,256,HDD,256,Hybrid,Intel,1650.87
+Apple,Gaming,13.3,8,Windows 11,1.41,Standard,No,Yes,No,AMD,1.09,256,Hybrid,0,SSD,Nvidia,1404.03
+Apple,Ultrabook,13.3,8,Linux,3.31,Standard,No,Yes,No,Intel,2.07,128,Hybrid,0,Hybrid,Nvidia,1637.76
+MSI,Ultrabook,15.6,8,Windows 10,1.51,Full HD,No,Yes,No,Intel,2.92,256,Hybrid,1024,Hybrid,Nvidia,1698.97
+Apple,Ultrabook,17.3,16,No OS,3.39,4K Ultra HD,No,Yes,No,AMD,3.21,1024,SSD,256,,Nvidia,3520.68
+MSI,Ultrabook,13.3,16,Windows 11,2.23,Full HD,No,Yes,No,Intel,3.02,128,SSD,1024,Hybrid,Intel,1793.77
+Apple,Ultrabook,17.3,16,Windows 10,1.63,Full HD,Yes,No,No,Intel,3.44,128,HDD,512,SSD,AMD,2536.51
+Asus,Notebook,15.6,16,Windows 11,2.45,Standard,Yes,No,No,Intel,1.02,256,SSD,0,Hybrid,AMD,1256.79
+MSI,Gaming,13.3,8,macOS,3.21,Full HD,No,No,No,Intel,1.35,1024,SSD,512,SSD,AMD,1892.3
+Lenovo,Ultrabook,17.3,32,No OS,2.88,Full HD,Yes,No,No,Intel,4.04,128,HDD,256,SSD,AMD,2532.17
+Acer,Gaming,13.3,4,Windows 10,3.06,Standard,No,Yes,No,AMD,3.39,1024,Hybrid,1024,,Nvidia,1818.76
+Dell,Gaming,15.6,8,Windows 10,2.72,Full HD,No,Yes,No,Intel,1.4,1024,Hybrid,1024,HDD,Nvidia,1781.95
+Apple,Ultrabook,17.3,4,Windows 10,2.79,Standard,No,Yes,No,AMD,3.95,1024,HDD,1024,HDD,Nvidia,3346.75
+HP,Notebook,13.3,32,Windows 10,3.15,Standard,No,No,No,AMD,1.85,256,Hybrid,512,,AMD,2143.44
+Apple,Ultrabook,15.6,16,Windows 10,1.77,Standard,No,Yes,Yes,Intel,2.67,512,SSD,0,Hybrid,Nvidia,2697.36
+HP,Notebook,13.3,32,Windows 11,2.33,Standard,No,Yes,No,AMD,1.51,512,HDD,512,,Nvidia,2172.27
+Acer,Gaming,13.3,8,No OS,1.71,Full HD,No,Yes,No,Intel,3.49,128,HDD,512,SSD,Intel,1241.49
+Acer,Notebook,14,16,macOS,3.47,Standard,No,Yes,No,AMD,3.33,1024,HDD,256,HDD,Intel,2210.53
+Acer,Notebook,14,8,macOS,3.37,Standard,No,No,No,AMD,1.74,256,Hybrid,256,,Nvidia,1183.49
+HP,Notebook,15.6,16,macOS,1.29,Full HD,Yes,No,No,Intel,4.02,1024,HDD,256,Hybrid,Intel,2766.07
+Apple,Gaming,14,4,macOS,2.82,Full HD,No,Yes,No,Intel,2.4,1024,HDD,0,,Intel,2802.68
+Acer,Gaming,15.6,4,Windows 11,3.33,4K Ultra HD,No,No,No,Intel,2.02,256,HDD,0,HDD,Nvidia,943.92
+Asus,Notebook,14,4,Linux,1.62,Full HD,No,No,Yes,Intel,1.53,512,Hybrid,256,,Nvidia,1188.79
+MSI,Notebook,13.3,32,No OS,2.51,Full HD,Yes,Yes,No,Intel,1.93,1024,SSD,256,,Nvidia,3134.4
+HP,Ultrabook,15.6,8,Windows 10,3.31,4K Ultra HD,No,Yes,No,AMD,1.08,1024,HDD,0,HDD,Nvidia,1744.72
+HP,Notebook,15.6,32,Linux,1.28,Full HD,Yes,Yes,No,AMD,3.04,512,SSD,1024,SSD,AMD,2734.25
+Apple,Ultrabook,13.3,4,macOS,2.8,Full HD,Yes,Yes,No,AMD,3.95,256,Hybrid,0,SSD,AMD,2146.44
+HP,Notebook,15.6,8,Linux,1.88,Full HD,No,No,Yes,AMD,2.92,128,Hybrid,0,HDD,Nvidia,1391.99
+HP,Ultrabook,15.6,4,No OS,3.33,Full HD,No,Yes,No,AMD,1.77,512,Hybrid,0,,Intel,1541.96
+Acer,Gaming,14,32,Windows 10,3.43,4K Ultra HD,No,No,No,AMD,1.12,128,Hybrid,256,HDD,Nvidia,1522.82
+Apple,Notebook,15.6,32,Windows 10,3.37,Full HD,No,Yes,No,AMD,1.75,128,SSD,1024,SSD,Nvidia,2773.57
+Acer,Notebook,17.3,32,No OS,2.29,Full HD,No,Yes,No,Intel,2.46,512,HDD,0,Hybrid,Intel,2269.24
+MSI,Notebook,13.3,4,No OS,3.18,4K Ultra HD,No,Yes,No,Intel,3.66,1024,Hybrid,256,,AMD,2444.15
+MSI,Notebook,14,8,macOS,3.14,Standard,Yes,Yes,Yes,AMD,1.66,128,Hybrid,512,SSD,Nvidia,1218.51
+Acer,Ultrabook,14,8,Windows 10,1.93,4K Ultra HD,No,Yes,No,AMD,3.52,128,SSD,512,,Nvidia,1320.75
+MSI,Notebook,17.3,4,Linux,3.11,Standard,No,No,Yes,Intel,4.03,256,SSD,0,HDD,AMD,1715.78
+Apple,Gaming,13.3,8,Windows 11,1.29,4K Ultra HD,No,Yes,Yes,Intel,2.59,1024,Hybrid,512,Hybrid,AMD,2983.95
+Dell,Gaming,13.3,4,Windows 11,2.57,4K Ultra HD,No,No,No,Intel,3.88,128,HDD,1024,HDD,Intel,1444.03
+Acer,Notebook,14,8,No OS,1.73,Full HD,No,Yes,No,Intel,2.94,256,HDD,512,Hybrid,AMD,1390.38
+Asus,Gaming,15.6,16,macOS,1.48,Standard,Yes,Yes,No,AMD,3.23,1024,Hybrid,512,,AMD,2620.13
+Asus,Notebook,14,16,Windows 11,1.38,Full HD,No,Yes,No,Intel,2.84,512,SSD,1024,,AMD,1730.8
+HP,Notebook,13.3,32,Windows 10,2.8,Standard,No,Yes,No,AMD,2.62,512,Hybrid,0,HDD,Intel,2620.92
+MSI,Gaming,17.3,16,No OS,1.98,4K Ultra HD,Yes,Yes,No,AMD,1.82,256,Hybrid,0,Hybrid,AMD,1702.39
+Asus,Notebook,14,16,Linux,2.87,4K Ultra HD,No,Yes,No,AMD,2.06,512,SSD,1024,Hybrid,AMD,1726.67
+HP,Gaming,13.3,16,No OS,1.35,Standard,No,Yes,Yes,Intel,2.01,128,Hybrid,1024,,Intel,1346.72
+Dell,Ultrabook,14,4,Linux,1.93,Full HD,Yes,Yes,No,Intel,2.97,1024,Hybrid,1024,HDD,AMD,2194.69
+Apple,Notebook,15.6,16,No OS,2.44,Full HD,No,Yes,No,AMD,1.42,128,Hybrid,512,Hybrid,AMD,1892.12
+Apple,Ultrabook,14,16,No OS,3.02,Full HD,No,Yes,No,AMD,4.21,128,SSD,1024,,Intel,2834.73
+Apple,Gaming,14,32,No OS,1.93,Full HD,Yes,No,No,AMD,3.52,512,HDD,256,SSD,Nvidia,3691.62
+Asus,Ultrabook,13.3,16,Linux,2.64,4K Ultra HD,No,No,No,Intel,2.41,128,HDD,512,HDD,Intel,1629.52
+Dell,Ultrabook,13.3,16,Linux,3.24,4K Ultra HD,No,Yes,No,AMD,1.56,512,SSD,0,SSD,AMD,1827.59
+Asus,Gaming,13.3,8,No OS,2.62,4K Ultra HD,No,Yes,No,Intel,4.09,1024,HDD,0,HDD,AMD,2366.62
+MSI,Ultrabook,14,32,Windows 11,1.74,4K Ultra HD,Yes,No,No,AMD,3.88,1024,Hybrid,0,,AMD,3525.92
+Asus,Ultrabook,15.6,32,macOS,1.26,4K Ultra HD,Yes,No,No,AMD,3.53,128,HDD,512,Hybrid,Intel,2257.78
+Dell,Gaming,17.3,32,macOS,3.2,Full HD,No,Yes,No,AMD,1.95,256,Hybrid,256,Hybrid,AMD,2256.83
+Dell,Ultrabook,17.3,32,macOS,1.25,Full HD,No,No,Yes,Intel,2.41,512,HDD,1024,Hybrid,AMD,2653.96
+MSI,Gaming,13.3,32,Linux,3.21,Full HD,No,Yes,Yes,Intel,1.36,512,SSD,1024,HDD,Intel,2363.6
+Dell,Ultrabook,13.3,32,Linux,2.42,Full HD,No,Yes,No,AMD,1.66,128,HDD,0,,Nvidia,1928.43
+Dell,Gaming,14,4,Windows 11,3.36,4K Ultra HD,No,No,No,Intel,3.74,512,HDD,0,SSD,Nvidia,1886.57
+Apple,Gaming,17.3,16,macOS,3.04,4K Ultra HD,Yes,Yes,No,AMD,3.5,512,HDD,512,,AMD,3013.33
+MSI,Ultrabook,13.3,32,macOS,3.5,4K Ultra HD,No,No,No,Intel,3.08,256,SSD,256,SSD,Intel,2590.75
+Lenovo,Ultrabook,15.6,16,No OS,2.01,Standard,No,No,No,Intel,4.14,256,HDD,1024,HDD,AMD,1984.97
+Lenovo,Ultrabook,15.6,16,Linux,2.96,Full HD,No,Yes,No,Intel,3.04,128,SSD,512,HDD,Intel,1722.31
+Dell,Notebook,13.3,4,macOS,2.12,Full HD,No,Yes,No,AMD,2.63,256,Hybrid,1024,SSD,Intel,1439.07
+Lenovo,Notebook,13.3,32,Windows 11,2.3,4K Ultra HD,No,Yes,No,Intel,2.19,128,HDD,0,SSD,Nvidia,2041.91
+Lenovo,Notebook,17.3,8,Windows 11,2.64,Full HD,No,Yes,No,Intel,4.29,1024,SSD,1024,SSD,Nvidia,2521.33
+Dell,Gaming,17.3,4,macOS,3.21,Full HD,No,No,No,AMD,1.29,128,SSD,256,,Intel,1035.16
+Lenovo,Ultrabook,14,8,Linux,3.46,4K Ultra HD,No,Yes,No,AMD,4.26,1024,HDD,256,SSD,AMD,2378.04
+Asus,Gaming,17.3,16,Windows 11,2.97,Standard,No,Yes,No,AMD,3.89,128,Hybrid,0,HDD,Nvidia,1944.8
+HP,Notebook,15.6,16,No OS,2.16,Standard,No,No,Yes,AMD,1.45,512,SSD,256,HDD,AMD,1794.39
+MSI,Ultrabook,15.6,4,Windows 11,2.17,Standard,No,Yes,No,Intel,2.98,256,HDD,256,Hybrid,Nvidia,1384.27
+HP,Gaming,13.3,4,Windows 10,2.9,4K Ultra HD,Yes,No,Yes,Intel,4.03,1024,Hybrid,512,SSD,Nvidia,2350.71
+Dell,Ultrabook,17.3,8,Windows 10,1.75,Full HD,No,Yes,No,Intel,3,128,SSD,1024,,AMD,1682.89
+Apple,Gaming,14,32,Linux,1.45,4K Ultra HD,Yes,No,Yes,Intel,4.18,256,SSD,0,,Nvidia,3613.65
+MSI,Ultrabook,15.6,8,macOS,2.02,4K Ultra HD,Yes,Yes,No,Intel,4.3,128,Hybrid,0,,Nvidia,1835.55
+Dell,Notebook,15.6,4,Linux,1.86,Full HD,No,Yes,No,AMD,2.48,256,Hybrid,0,Hybrid,AMD,1317.37
+Apple,Notebook,14,8,Linux,1.88,Standard,No,Yes,No,Intel,2.32,256,HDD,0,HDD,Nvidia,1751.59
+HP,Ultrabook,14,4,Linux,1.74,Standard,No,Yes,No,Intel,4.28,128,HDD,0,,Nvidia,1574.76
+Dell,Gaming,15.6,8,Linux,1.3,4K Ultra HD,Yes,No,Yes,Intel,3.36,1024,SSD,256,HDD,Nvidia,2454.84
+MSI,Notebook,15.6,4,No OS,1.24,Standard,No,No,Yes,AMD,1.41,1024,Hybrid,512,Hybrid,AMD,1936.2
+MSI,Notebook,14,4,No OS,3.47,4K Ultra HD,Yes,No,No,AMD,1.15,512,Hybrid,0,SSD,Intel,1341.1
+Acer,Notebook,15.6,4,Windows 11,2.18,4K Ultra HD,Yes,Yes,No,Intel,2.98,256,Hybrid,512,SSD,AMD,1153
+Asus,Ultrabook,13.3,32,Windows 10,2.08,Full HD,No,Yes,No,AMD,4.26,512,SSD,512,SSD,Intel,2763.68
+Lenovo,Ultrabook,13.3,8,Linux,2.76,Full HD,No,Yes,No,AMD,3.95,512,Hybrid,256,,Nvidia,1920.48
+Apple,Gaming,14,8,Windows 11,1.7,Full HD,No,Yes,Yes,AMD,3.37,128,Hybrid,0,SSD,Intel,2025.4
+Acer,Gaming,17.3,8,Windows 10,3.38,4K Ultra HD,Yes,No,No,AMD,1.49,128,SSD,256,,AMD,1028.41
+Lenovo,Gaming,14,4,macOS,3.01,Full HD,Yes,Yes,No,AMD,1.89,128,HDD,0,Hybrid,AMD,976.51
+Lenovo,Ultrabook,14,8,No OS,1.41,Standard,No,Yes,No,AMD,4.06,256,HDD,256,Hybrid,Nvidia,1627.36
+Dell,Ultrabook,17.3,8,Windows 10,2.16,Standard,No,Yes,No,AMD,1.64,128,SSD,512,,Intel,1247.96
+Lenovo,Gaming,17.3,4,macOS,3.22,4K Ultra HD,No,No,No,Intel,1.97,128,Hybrid,0,HDD,Nvidia,1029.57
+Asus,Gaming,17.3,16,Windows 10,3.37,4K Ultra HD,No,No,No,Intel,1.45,256,SSD,1024,SSD,Nvidia,1522.59
+MSI,Ultrabook,13.3,4,No OS,2.28,Full HD,No,No,Yes,AMD,3.37,256,HDD,512,SSD,AMD,1557.08
+Acer,Gaming,15.6,8,No OS,2.61,4K Ultra HD,No,Yes,No,Intel,4.3,1024,HDD,1024,SSD,Intel,2102.22
+Lenovo,Notebook,13.3,4,Windows 11,1.58,4K Ultra HD,Yes,Yes,No,Intel,1.94,128,SSD,512,,Intel,990.74
+Dell,Ultrabook,15.6,16,Linux,3.48,Standard,No,No,No,AMD,2.66,128,SSD,256,Hybrid,Intel,1734.62
+Asus,Gaming,13.3,4,Windows 10,1.73,Standard,No,No,Yes,Intel,3.22,128,HDD,0,SSD,Intel,1137.53
+HP,Ultrabook,15.6,8,Windows 10,3.37,Full HD,No,Yes,No,AMD,4.5,1024,SSD,512,Hybrid,Nvidia,2686.93
+MSI,Notebook,13.3,16,macOS,2.69,4K Ultra HD,No,No,No,AMD,1.37,128,HDD,256,SSD,Nvidia,1472.82
+MSI,Ultrabook,17.3,32,No OS,2.6,4K Ultra HD,No,No,No,AMD,2.74,1024,SSD,0,SSD,AMD,3254.5
+Acer,Ultrabook,14,8,Windows 10,2.38,Standard,No,No,No,Intel,2.35,512,SSD,0,,Nvidia,1333.64
+MSI,Ultrabook,13.3,16,No OS,1.73,4K Ultra HD,No,No,No,Intel,4.03,1024,SSD,512,HDD,Nvidia,2949.8
+Lenovo,Ultrabook,15.6,16,Windows 10,1.61,Standard,No,Yes,Yes,Intel,2.67,512,HDD,0,,AMD,1833.27
+Dell,Notebook,17.3,32,Windows 11,1.71,Full HD,No,Yes,No,Intel,1.39,128,SSD,512,SSD,AMD,2087.72
+MSI,Ultrabook,13.3,4,Linux,1.63,Standard,No,Yes,No,AMD,3.22,512,HDD,0,SSD,AMD,1814.4
+MSI,Ultrabook,13.3,4,Windows 10,2.99,4K Ultra HD,No,No,No,AMD,3.7,1024,HDD,1024,HDD,Nvidia,2322.14
+HP,Gaming,17.3,8,No OS,2.01,Full HD,No,No,Yes,Intel,1.01,256,SSD,256,Hybrid,Nvidia,1059.47
+HP,Ultrabook,13.3,32,Windows 11,1.33,Standard,No,No,No,AMD,4.01,512,SSD,1024,Hybrid,AMD,2922.01
+Apple,Gaming,14,4,Windows 10,3.43,Standard,No,Yes,Yes,AMD,1.65,512,HDD,512,SSD,AMD,1976.92
+Asus,Notebook,13.3,32,macOS,3.23,Full HD,No,No,No,Intel,2.93,128,HDD,1024,Hybrid,AMD,2159.71
+Lenovo,Notebook,14,4,Linux,3.33,Full HD,No,No,Yes,AMD,2.46,1024,Hybrid,512,SSD,Nvidia,1861.19
+MSI,Notebook,14,16,Windows 10,3.49,Standard,Yes,No,No,Intel,3.52,512,HDD,0,HDD,Nvidia,2298
+MSI,Notebook,17.3,4,Windows 11,1.6,4K Ultra HD,No,No,No,AMD,2.3,512,Hybrid,0,HDD,Intel,1724.47
+Dell,Gaming,13.3,32,macOS,2.11,Standard,No,No,No,Intel,4.04,512,Hybrid,512,SSD,Nvidia,2939.91
+Apple,Ultrabook,17.3,16,Windows 11,2.94,Full HD,No,Yes,No,AMD,3.56,512,Hybrid,1024,HDD,Nvidia,2955.15
+Asus,Notebook,13.3,16,Windows 11,2.8,Standard,No,Yes,No,AMD,3.27,256,SSD,0,,Nvidia,1868.47
+Apple,Ultrabook,13.3,16,macOS,1.55,Full HD,Yes,Yes,No,Intel,3.79,1024,SSD,256,,AMD,3851.7
+Acer,Gaming,15.6,32,Windows 11,3.08,Full HD,No,Yes,No,Intel,3.64,128,HDD,0,HDD,Nvidia,2176.13
+Asus,Gaming,13.3,8,macOS,1.72,4K Ultra HD,Yes,No,No,Intel,1.13,128,Hybrid,256,SSD,AMD,808.68
+MSI,Gaming,17.3,8,Windows 10,1.71,Full HD,Yes,No,No,Intel,2.38,256,SSD,1024,SSD,Intel,1519.82
+MSI,Notebook,14,8,macOS,2.44,Full HD,No,Yes,No,AMD,4.26,1024,SSD,256,HDD,Intel,2553.23
+Asus,Ultrabook,13.3,32,macOS,2.56,4K Ultra HD,No,Yes,No,AMD,1.44,512,SSD,256,Hybrid,AMD,2275.56
+MSI,Ultrabook,15.6,16,Linux,2.53,Full HD,No,No,No,Intel,3.58,256,SSD,256,,AMD,2105.33
+Lenovo,Ultrabook,17.3,8,macOS,1.41,4K Ultra HD,No,Yes,No,AMD,4.41,1024,SSD,256,Hybrid,AMD,2749.25
+Asus,Gaming,13.3,32,macOS,3.22,4K Ultra HD,No,Yes,Yes,Intel,1.18,512,Hybrid,0,SSD,Nvidia,2254.28
+Apple,Notebook,17.3,8,Windows 10,1.81,Full HD,No,Yes,Yes,Intel,3.39,256,Hybrid,256,SSD,Intel,2259.74
+Asus,Gaming,15.6,4,Linux,1.5,Full HD,Yes,Yes,No,AMD,2.64,1024,Hybrid,0,Hybrid,AMD,1886.29
+MSI,Gaming,15.6,8,No OS,3.24,Standard,No,Yes,Yes,AMD,3.03,128,Hybrid,256,HDD,Nvidia,1622.12
+Lenovo,Ultrabook,17.3,8,Windows 10,3.4,4K Ultra HD,No,Yes,No,Intel,1.3,128,HDD,512,Hybrid,Intel,867.79
+Lenovo,Gaming,13.3,16,Windows 10,3.18,Standard,No,Yes,No,Intel,1.15,1024,Hybrid,1024,Hybrid,Nvidia,1930.89
+Acer,Ultrabook,14,32,No OS,3.06,Full HD,Yes,No,No,Intel,3.33,128,SSD,256,,Intel,1954.58
+Apple,Notebook,15.6,16,macOS,2.71,Standard,No,Yes,Yes,AMD,3.88,1024,Hybrid,512,,Nvidia,4004.64
+HP,Ultrabook,13.3,16,Windows 11,2.47,4K Ultra HD,No,No,No,AMD,3.74,512,HDD,256,Hybrid,Intel,2205.24
+HP,Notebook,13.3,16,Linux,1.4,Standard,No,Yes,No,AMD,2.9,1024,SSD,256,Hybrid,Intel,2438.5
+Asus,Ultrabook,14,16,Windows 11,2.14,4K Ultra HD,Yes,Yes,No,AMD,1.35,512,Hybrid,256,SSD,Nvidia,1520.41
+Acer,Gaming,15.6,16,No OS,2.06,Full HD,No,No,Yes,Intel,3.41,256,Hybrid,512,,AMD,1768.2
+Dell,Gaming,15.6,8,Windows 10,1.8,Full HD,No,Yes,No,Intel,1.85,1024,Hybrid,1024,,Intel,2039.77
+Asus,Notebook,13.3,16,Windows 10,2.86,4K Ultra HD,No,Yes,No,Intel,4.19,256,SSD,512,SSD,AMD,1962.65
+Acer,Notebook,13.3,16,Linux,2.34,Full HD,No,Yes,No,Intel,3.93,128,SSD,1024,HDD,Nvidia,1570.49
+Apple,Notebook,14,32,Windows 10,1.39,Full HD,Yes,No,No,Intel,3.48,512,HDD,256,,AMD,3601.21
+Apple,Ultrabook,14,4,Windows 10,1.71,Full HD,No,Yes,No,Intel,4.32,1024,SSD,0,,AMD,3233.52
+Apple,Ultrabook,15.6,8,Linux,2.77,Full HD,Yes,Yes,No,AMD,1.11,256,SSD,256,HDD,AMD,1515.88
+Apple,Notebook,17.3,8,Linux,1.38,4K Ultra HD,No,No,No,AMD,3.58,512,Hybrid,1024,,AMD,2712.23
+Apple,Gaming,15.6,8,No OS,3.16,Standard,No,Yes,No,Intel,2.16,512,SSD,512,,AMD,2207.82
+Acer,Ultrabook,13.3,16,Windows 10,2.34,Standard,Yes,No,No,Intel,4.17,128,Hybrid,256,HDD,Intel,1673.51
+Acer,Ultrabook,15.6,16,Windows 10,2.31,Full HD,No,No,No,AMD,1.93,128,Hybrid,512,HDD,Intel,1231.53
+Lenovo,Ultrabook,17.3,16,No OS,2.56,Standard,Yes,No,No,AMD,3.54,512,SSD,512,Hybrid,Intel,2272.87
+HP,Notebook,14,32,macOS,3.1,Standard,No,Yes,No,AMD,4.07,512,HDD,512,SSD,Nvidia,2927.94
+MSI,Notebook,17.3,4,macOS,2,Full HD,No,No,No,AMD,1.15,1024,HDD,256,SSD,AMD,1880.49
+Apple,Notebook,17.3,16,macOS,2.76,Full HD,No,Yes,No,Intel,2.39,512,SSD,512,HDD,Intel,2767.19
+Dell,Notebook,17.3,4,No OS,2.5,Standard,No,Yes,No,Intel,3.67,1024,HDD,512,HDD,Nvidia,2385.83
+MSI,Notebook,14,32,Windows 10,1.81,4K Ultra HD,No,Yes,No,Intel,2.59,512,Hybrid,256,,Intel,2425.15
+Acer,Gaming,17.3,8,No OS,3.22,Full HD,Yes,No,No,Intel,1.94,128,Hybrid,512,Hybrid,Intel,1078.45
+Dell,Gaming,17.3,16,No OS,3.03,4K Ultra HD,Yes,Yes,No,Intel,1.77,1024,SSD,256,Hybrid,AMD,2429.6
+Dell,Notebook,17.3,4,macOS,2.71,Standard,Yes,Yes,No,AMD,1.46,256,HDD,1024,HDD,Nvidia,994.09
+Dell,Ultrabook,13.3,4,Windows 11,3.16,Full HD,Yes,Yes,Yes,Intel,4,128,HDD,1024,,AMD,1596.02
+Lenovo,Notebook,17.3,16,Windows 10,3.19,4K Ultra HD,No,No,No,AMD,3.01,1024,Hybrid,1024,,AMD,2443.86
+Acer,Gaming,14,8,macOS,2.83,Full HD,No,No,Yes,Intel,1.27,1024,SSD,512,SSD,Intel,1626.99
+Dell,Gaming,17.3,8,Windows 11,3.13,Standard,No,No,No,Intel,2.34,256,HDD,0,SSD,AMD,1485.52
+Apple,Ultrabook,17.3,8,Windows 11,2.8,4K Ultra HD,Yes,Yes,Yes,Intel,2.29,1024,SSD,0,,Nvidia,3106.22
+Asus,Gaming,14,32,Linux,2.76,Standard,No,Yes,No,Intel,1.64,512,HDD,512,SSD,AMD,2197.98
+Dell,Notebook,17.3,4,Windows 10,2.62,Standard,No,No,Yes,Intel,2.52,256,Hybrid,0,HDD,AMD,1510
+Lenovo,Ultrabook,14,4,Windows 11,2.93,Full HD,No,Yes,No,AMD,2.16,128,Hybrid,256,,AMD,1136.31
+MSI,Notebook,17.3,4,macOS,1.56,4K Ultra HD,No,Yes,No,AMD,2.2,128,SSD,0,SSD,Intel,1148.54
+Acer,Notebook,14,32,Linux,3.23,Standard,No,No,Yes,AMD,3.59,512,Hybrid,512,Hybrid,Nvidia,2293.7
+Lenovo,Ultrabook,17.3,4,Windows 10,3.21,Standard,Yes,No,No,Intel,1.78,128,HDD,512,,Intel,1062
+Dell,Notebook,17.3,32,No OS,1.27,4K Ultra HD,No,No,No,Intel,3.25,1024,Hybrid,256,,Intel,3293.69
+Acer,Gaming,13.3,8,macOS,3.1,Standard,No,No,No,AMD,3,1024,SSD,1024,Hybrid,Intel,1901.34
+Asus,Notebook,13.3,16,Windows 11,1.5,Standard,No,No,No,Intel,2.99,512,SSD,512,HDD,Intel,2057.62
+Dell,Ultrabook,17.3,4,Windows 11,1.97,4K Ultra HD,No,Yes,No,Intel,3.32,128,SSD,256,Hybrid,Intel,1447.84
+Lenovo,Ultrabook,17.3,4,macOS,2.91,4K Ultra HD,No,Yes,No,AMD,2.92,128,HDD,0,,Nvidia,1170.75
+HP,Ultrabook,15.6,8,Windows 11,1.57,4K Ultra HD,No,No,No,Intel,4.08,512,HDD,0,HDD,AMD,1960.86
+Apple,Notebook,14,16,Linux,3.08,4K Ultra HD,No,Yes,No,AMD,3.36,256,HDD,256,SSD,Intel,2837.12
+MSI,Ultrabook,15.6,32,Windows 10,3.11,Full HD,No,No,Yes,Intel,2.91,128,HDD,256,SSD,Intel,2427.68
+Lenovo,Ultrabook,13.3,16,Linux,2.37,4K Ultra HD,No,Yes,No,AMD,3.9,256,HDD,512,SSD,Nvidia,1767.46
+Acer,Notebook,13.3,8,Windows 11,1.21,Full HD,No,Yes,No,Intel,3.12,128,Hybrid,0,,Nvidia,1055.45
+Dell,Gaming,13.3,8,No OS,1.86,Full HD,No,No,No,Intel,2.02,128,HDD,256,Hybrid,AMD,1152.42
+Apple,Notebook,13.3,16,Windows 10,2.62,Full HD,Yes,No,No,AMD,1.72,128,HDD,0,HDD,Nvidia,1888.19
+Dell,Ultrabook,17.3,32,Windows 10,3.46,Standard,Yes,No,No,Intel,1.53,128,Hybrid,256,SSD,AMD,2152.2
+Acer,Ultrabook,13.3,32,macOS,2.65,Full HD,No,Yes,No,Intel,4.15,1024,HDD,0,HDD,Intel,2960.43
+Dell,Notebook,17.3,4,macOS,1.8,Full HD,No,No,No,AMD,3.49,256,SSD,1024,,Intel,1641.93
+HP,Gaming,17.3,32,No OS,2.66,Standard,Yes,Yes,No,Intel,4.28,256,HDD,512,SSD,AMD,2676.4
+Apple,Ultrabook,13.3,16,Windows 10,2.44,Standard,Yes,Yes,No,AMD,3.11,128,HDD,0,,Nvidia,2386.6
+Apple,Ultrabook,13.3,8,No OS,2.99,Standard,Yes,Yes,No,Intel,2.66,128,SSD,1024,Hybrid,AMD,1649.77
+Acer,Ultrabook,14,4,macOS,1.45,4K Ultra HD,No,Yes,Yes,Intel,1.21,256,SSD,0,,Nvidia,1044.91
+MSI,Notebook,15.6,4,macOS,2.95,Standard,No,Yes,Yes,Intel,3.35,1024,SSD,0,,Intel,2466.91
+HP,Ultrabook,13.3,8,Windows 10,2.44,Standard,No,No,No,Intel,3.04,512,SSD,1024,Hybrid,Nvidia,1838.84
+Lenovo,Gaming,14,32,Linux,3.41,Full HD,No,No,No,AMD,4.47,512,HDD,0,HDD,AMD,2690.54
+Dell,Ultrabook,14,8,Windows 11,1.99,Standard,No,No,No,Intel,1.84,256,SSD,0,Hybrid,AMD,1439.62
+Asus,Ultrabook,15.6,32,macOS,2.66,4K Ultra HD,No,Yes,No,AMD,2.86,128,SSD,512,Hybrid,Intel,2095.04
+Dell,Gaming,17.3,8,macOS,3.34,Standard,No,No,No,Intel,3.28,128,Hybrid,1024,,Nvidia,1518.02
+Dell,Ultrabook,13.3,16,Linux,1.44,4K Ultra HD,Yes,No,No,Intel,3.26,1024,SSD,1024,HDD,Nvidia,2656.72
+Lenovo,Notebook,15.6,32,Linux,3.36,Standard,No,No,No,Intel,2.96,512,SSD,256,SSD,Nvidia,2494.7
+Dell,Notebook,13.3,16,No OS,2.78,Standard,No,Yes,No,Intel,3.72,1024,Hybrid,0,Hybrid,Intel,2663.19
+HP,Notebook,14,4,No OS,1.36,Standard,No,Yes,No,AMD,1.72,512,Hybrid,512,HDD,Nvidia,1237.15
+HP,Gaming,14,8,Windows 11,1.89,Standard,No,Yes,No,AMD,3.54,256,HDD,0,Hybrid,AMD,1550.4
+Apple,Ultrabook,17.3,4,Windows 11,2.83,4K Ultra HD,No,Yes,No,AMD,3.17,512,Hybrid,0,Hybrid,Nvidia,2318.99
+Acer,Notebook,14,4,Windows 10,1.35,4K Ultra HD,No,Yes,No,AMD,4.14,1024,HDD,256,Hybrid,Intel,2008.39
+MSI,Gaming,14,4,No OS,2.54,Full HD,Yes,No,No,Intel,3.97,1024,Hybrid,0,Hybrid,Nvidia,2377.6
+Asus,Ultrabook,15.6,4,macOS,2,4K Ultra HD,No,Yes,Yes,AMD,2.1,1024,Hybrid,512,,Nvidia,1769.18
+Dell,Gaming,13.3,8,No OS,2.63,Standard,No,Yes,No,AMD,1.97,256,HDD,512,HDD,AMD,1430.27
+Dell,Notebook,13.3,4,macOS,1.31,Full HD,Yes,Yes,No,Intel,4.44,512,Hybrid,256,HDD,Nvidia,2102.65
+Lenovo,Notebook,15.6,8,Linux,3.2,Full HD,Yes,Yes,No,Intel,2.85,512,HDD,0,HDD,AMD,1579.77
+Acer,Notebook,17.3,8,No OS,3.44,Full HD,No,Yes,No,Intel,4.17,1024,Hybrid,512,Hybrid,AMD,2335.02
+HP,Gaming,13.3,16,Linux,3.43,Standard,Yes,Yes,No,Intel,1.57,512,SSD,0,,Intel,1493.4
+Asus,Gaming,14,32,Windows 11,2.92,4K Ultra HD,No,Yes,No,AMD,3.25,128,Hybrid,0,Hybrid,AMD,2434.55
+Apple,Notebook,13.3,32,Windows 11,1.5,Standard,No,No,No,AMD,3.83,128,HDD,0,Hybrid,AMD,3481.07
+HP,Gaming,14,8,Windows 10,2.94,Full HD,No,No,Yes,Intel,4.32,128,Hybrid,256,HDD,Intel,1653.39
+Acer,Notebook,17.3,16,No OS,1.26,Standard,No,Yes,No,Intel,2.18,512,HDD,0,Hybrid,AMD,1709.84
+MSI,Notebook,15.6,8,Linux,1.25,Standard,No,Yes,No,Intel,3.54,256,HDD,512,SSD,Intel,1690.91
+Apple,Ultrabook,13.3,8,macOS,1.94,4K Ultra HD,Yes,No,No,AMD,2.89,256,SSD,0,Hybrid,Nvidia,2068.12
+MSI,Gaming,15.6,8,Windows 11,2.32,4K Ultra HD,Yes,Yes,No,AMD,1.21,256,SSD,512,SSD,Intel,1230.13
+Lenovo,Notebook,13.3,16,Windows 11,2.97,Full HD,No,Yes,No,Intel,3.41,256,HDD,0,Hybrid,AMD,1712.6
+Lenovo,Notebook,14,32,macOS,2.77,Standard,No,No,No,Intel,3.42,128,Hybrid,512,,Intel,2182.18
+Dell,Gaming,15.6,16,Linux,2.23,Standard,No,Yes,No,AMD,4.26,128,HDD,512,,AMD,2038.98
+MSI,Ultrabook,13.3,4,Linux,1.83,4K Ultra HD,No,No,Yes,Intel,2.74,1024,HDD,0,HDD,Nvidia,2078.33
+Acer,Ultrabook,14,16,No OS,3.49,Standard,Yes,Yes,No,Intel,1.81,512,Hybrid,0,Hybrid,Intel,1445.79
+Asus,Notebook,15.6,16,No OS,2.18,Standard,Yes,Yes,Yes,AMD,1.16,512,Hybrid,512,SSD,Nvidia,1432.78
+Apple,Gaming,15.6,16,Windows 10,2.24,Standard,No,Yes,No,Intel,2.45,256,Hybrid,1024,SSD,AMD,2464.61
+HP,Ultrabook,13.3,16,Windows 11,1.58,4K Ultra HD,No,No,No,AMD,2.06,128,Hybrid,256,Hybrid,AMD,1356.25
+Acer,Gaming,13.3,32,No OS,3.03,Full HD,No,Yes,No,Intel,3.66,256,HDD,1024,SSD,Nvidia,2040.6
+Acer,Gaming,13.3,4,Linux,2.8,Full HD,No,Yes,No,Intel,2.24,1024,HDD,1024,,Intel,1737.35
+Lenovo,Notebook,14,32,macOS,1.71,Standard,No,No,No,AMD,4.32,512,SSD,0,SSD,Intel,2801.92
+MSI,Ultrabook,13.3,32,Linux,1.39,Full HD,Yes,Yes,No,AMD,4.37,512,HDD,256,HDD,AMD,3217.45
+Dell,Notebook,15.6,16,Windows 11,2.77,4K Ultra HD,Yes,Yes,No,Intel,3.17,256,Hybrid,1024,,Nvidia,2048.57
+Dell,Ultrabook,15.6,8,Linux,2.71,4K Ultra HD,No,No,No,AMD,4.25,1024,SSD,0,,Nvidia,2859.19
+Apple,Ultrabook,13.3,8,Windows 10,1.83,Full HD,No,Yes,No,Intel,3.66,512,Hybrid,1024,,Intel,2620.56
+Lenovo,Ultrabook,13.3,32,Windows 11,3.39,Full HD,Yes,No,No,Intel,2.91,1024,HDD,1024,Hybrid,Intel,2744.16
+Acer,Ultrabook,17.3,32,macOS,1.55,Standard,No,No,No,AMD,1.63,1024,SSD,0,Hybrid,Intel,2478.3
+Asus,Ultrabook,15.6,16,Windows 10,2.19,Full HD,No,No,No,Intel,2.61,256,Hybrid,0,,Nvidia,1603.78
+Lenovo,Gaming,14,32,Windows 11,3.37,Standard,No,Yes,No,Intel,2.96,128,SSD,0,Hybrid,Intel,2032.09
+Apple,Notebook,17.3,16,macOS,2.17,Standard,Yes,No,No,AMD,4.02,256,SSD,256,SSD,Intel,2945.67
+Apple,Gaming,13.3,8,Windows 10,2.67,4K Ultra HD,Yes,Yes,Yes,AMD,2.68,128,HDD,1024,Hybrid,AMD,1917.62
+Lenovo,Ultrabook,13.3,8,Windows 10,2.11,4K Ultra HD,Yes,No,No,Intel,4.14,1024,Hybrid,0,Hybrid,Intel,2284.92
+Apple,Notebook,15.6,4,Windows 11,1.83,4K Ultra HD,Yes,Yes,No,AMD,3.36,128,SSD,512,,Intel,2057.68
