@@ -132,6 +132,7 @@ It highlights the ability to transform raw data into actionable insights using P
 ## 🙌 Author
 
 **Ronak Pawar**
+<img width="1858" height="511" alt="Screenshot 2026-01-06 160158" src="https://github.com/user-attachments/assets/69cd31e5-d540-4d40-8114-d47c6520a864" />
 <img width="901" height="594" alt="Screenshot 2026-01-06 144829" src="https://github.com/user-attachments/assets/275429d6-30e5-4a19-8c21-78d574007c30" />
 <img width="705" height="596" alt="Screenshot 2026-01-06 144759" src="https://github.com/user-attachments/assets/2fa112bb-26c9-47ee-afa0-ac242d00cef2" />
 <img width="898" height="607" alt="Screenshot 2026-01-06 144725" src="https://github.com/user-attachments/assets/0ea30edf-da2b-4d9a-b584-d841c044720f" />
@@ -140,6 +141,5 @@ It highlights the ability to transform raw data into actionable insights using P
 <img width="715" height="657" alt="Screenshot 2026-01-06 144603" src="https://github.com/user-attachments/assets/57967d40-3b0a-4961-830b-aefddd9062f3" />
 <img width="746" height="593" alt="Screenshot 2026-01-06 144545" src="https://github.com/user-attachments/assets/5761181c-447e-4035-b77d-6d9735fbdf6c" />
 <img width="1054" height="641" alt="Screenshot 2026-01-06 144521" src="https://github.com/user-attachments/assets/dbd09242-bd50-4979-b4ca-0b5a06a6fb07" />
-<img width="1858" height="511" alt="Screenshot 2026-01-06 160158" src="https://github.com/user-attachments/assets/69cd31e5-d540-4d40-8114-d47c6520a864" />
 <img width="726" height="604" alt="Screenshot 2026-01-06 144847" src="https://github.com/user-attachments/assets/6f10e726-3d36-4a0b-8b55-107eec319291" />
 <img width="1322" height="754" alt="Screenshot 2026-01-06 144345" src="https://github.com/user-attachments/assets/139d362e-0fa7-4ec1-89ee-9a1b390abb28" />
