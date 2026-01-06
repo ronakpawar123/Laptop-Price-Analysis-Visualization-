@@ -132,17 +132,15 @@ It highlights the ability to transform raw data into actionable insights using P
 ## 🙌 Author
 
 **Ronak Pawar**
-
-<img width="1054" height="641" alt="image" src="https://github.com/user-attachments/assets/abe98fc1-7de3-4a33-810b-c5d065aae438" />
-<img width="746" height="593" alt="image" src="https://github.com/user-attachments/assets/dc259d6b-27aa-427d-b8e0-1bb45873f875" />
-<img width="715" height="657" alt="Screenshot 2026-01-06 144603" src="https://github.com/user-attachments/assets/c433caae-ff6d-4d72-a5d7-3310b7b09f9a" />
-<img width="563" height="549" alt="image" src="https://github.com/user-attachments/assets/a82aa8c3-d9f7-4476-bf3b-cd1eba96b4e6" />
-<img width="1087" height="732" alt="image" src="https://github.com/user-attachments/assets/843189b1-228d-4f4b-8736-44adfaa4f57c" />
-<img width="898" height="607" alt="image" src="https://github.com/user-attachments/assets/8be8cd4d-312d-40ca-afe6-0009be458ace" />
-<img width="705" height="596" alt="image" src="https://github.com/user-attachments/assets/09b7916a-6a4a-4c3a-bdcb-7765fba2d170" />
-<img width="901" height="594" alt="image" src="https://github.com/user-attachments/assets/7dafd2d2-2737-4fbd-90b9-18bb9ae14361" />
-<img width="726" height="604" alt="image" src="https://github.com/user-attachments/assets/9ec8da8b-1349-4bed-8ad7-4443290bda64" />
-<img width="1322" height="754" alt="image" src="https://github.com/user-attachments/assets/b1618bbd-e897-44a7-a560-c1b4643f75b6" />
-
-
+<img width="901" height="594" alt="Screenshot 2026-01-06 144829" src="https://github.com/user-attachments/assets/275429d6-30e5-4a19-8c21-78d574007c30" />
+<img width="705" height="596" alt="Screenshot 2026-01-06 144759" src="https://github.com/user-attachments/assets/2fa112bb-26c9-47ee-afa0-ac242d00cef2" />
+<img width="898" height="607" alt="Screenshot 2026-01-06 144725" src="https://github.com/user-attachments/assets/0ea30edf-da2b-4d9a-b584-d841c044720f" />
+<img width="1087" height="732" alt="Screenshot 2026-01-06 144709" src="https://github.com/user-attachments/assets/765a5b6e-015d-4c01-9d45-912c926d699d" />
+<img width="563" height="549" alt="Screenshot 2026-01-06 144615" src="https://github.com/user-attachments/assets/0044b262-b4f5-440f-b443-155f18f2a7f2" />
+<img width="715" height="657" alt="Screenshot 2026-01-06 144603" src="https://github.com/user-attachments/assets/57967d40-3b0a-4961-830b-aefddd9062f3" />
+<img width="746" height="593" alt="Screenshot 2026-01-06 144545" src="https://github.com/user-attachments/assets/5761181c-447e-4035-b77d-6d9735fbdf6c" />
+<img width="1054" height="641" alt="Screenshot 2026-01-06 144521" src="https://github.com/user-attachments/assets/dbd09242-bd50-4979-b4ca-0b5a06a6fb07" />
+<img width="1322" height="754" alt="Screenshot 2026-01-06 144345" src="https://github.com/user-attachments/assets/139d362e-0fa7-4ec1-89ee-9a1b390abb28" />
+<img width="1858" height="511" alt="Screenshot 2026-01-06 160158" src="https://github.com/user-attachments/assets/69cd31e5-d540-4d40-8114-d47c6520a864" />
+<img width="726" height="604" alt="Screenshot 2026-01-06 144847" src="https://github.com/user-attachments/assets/6f10e726-3d36-4a0b-8b55-107eec319291" />
 
