@@ -132,7 +132,7 @@ It highlights the ability to transform raw data into actionable insights using P
 ## 🙌 Author
 
 **Ronak Pawar**
-<img width="1858" height="511" alt="Screenshot 2026-01-06 160158" src="https://github.com/user-attachments/assets/69cd31e5-d540-4d40-8114-d47c6520a864" />
+<img width="1839" height="905" alt="Screenshot 2026-01-06 150151" src="https://github.com/user-attachments/assets/87c0f05a-4da6-4b6c-ac1d-2f63b1c639a4" />
 <img width="901" height="594" alt="Screenshot 2026-01-06 144829" src="https://github.com/user-attachments/assets/275429d6-30e5-4a19-8c21-78d574007c30" />
 <img width="705" height="596" alt="Screenshot 2026-01-06 144759" src="https://github.com/user-attachments/assets/2fa112bb-26c9-47ee-afa0-ac242d00cef2" />
 <img width="898" height="607" alt="Screenshot 2026-01-06 144725" src="https://github.com/user-attachments/assets/0ea30edf-da2b-4d9a-b584-d841c044720f" />
